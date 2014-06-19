@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1403195043 source:/home/mathieu/Programming/Git/ProjectAiden/Aiden/Aiden/main.cpp
+	<iostream>
+	"Aiden.h"
+
+1403194927 /home/mathieu/Programming/Git/ProjectAiden/Aiden/Aiden/include/Aiden.h
+	<string>
+
