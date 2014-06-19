@@ -14,4 +14,5 @@ For this project we are mainly using code blocks, so normally there is an up to 
 
 - Make sure your compiler supports C++11 revision!
 - Probably going to use boost library
+- Using Festival for voice output. To install on Ubuntu-like distro: sudo apt-get install festival & sudo apt-get install festvox-kallpc16 (default voices)
 
