@@ -1,6 +1,4 @@
 //
-//  @author: Mathieu David
-//
 //  Aiden is the main class of this project. This is the class that will be instanciated in the main() to run the rest of the program.
 //
 
@@ -17,11 +15,13 @@ namespace aiden{
             Aiden();
 
             std::string getName();
+            static std::string getVersion();
 
         protected:
 
         private:
             std::string m_name;
+            static const std::string s_version;
     };
 
 }
